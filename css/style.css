@@ -1,0 +1,106 @@
+body {
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    background-color: #9a0909;
+}
+
+.container {
+    display: flex;
+}
+
+.pos {
+    width: 100%;
+    max-width: 970px;
+    min-width: 360px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.Title{
+    display: block;
+    margin: 20px auto;
+    
+}
+
+.element {
+    padding: 25px 25px 20px 25px;
+    width: 25%;
+    background-color: black;
+}
+
+.picture {
+    padding-bottom: 10px;
+}
+
+.picture img{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.element h2 {
+    text-align: center;
+    color: white;
+}
+
+.mainCont {
+    display: flex;
+}
+
+.leftSide {
+    width: 20%;
+    background-color: rgb(116, 0, 0);
+}
+
+.href {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.leftSide a {
+    color: orangered; 
+}
+
+.mid {
+    width: 60%;
+    padding: 20px 10px;
+}
+
+.mid p {
+    color: white;
+    text-indent: 20px;
+    margin-bottom: 20px;
+}
+
+.rightSide {
+    width: 20%;
+}
+
+.artTitle {
+    background-color: gray;
+    height: 20px;
+}
+
+.artTitle h3 {
+    text-align: center;
+    font-weight: 700;
+} 
+
+.text {
+    padding: 10px 10px 30px;
+    background-color: rgb(216, 216, 216);
+}
+
+hr {
+    width: 65%;
+    color: gray;
+}
+
+footer {
+    height: 20px;
+    color: white;
+    background-color: rgb(255, 115, 0);
+    text-align: center;
+    margin:
+}
